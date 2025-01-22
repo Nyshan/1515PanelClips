@@ -13,3 +13,11 @@ Here is a look at the front and rear of the scaled down panel clips for 1515.
 ![](/Images/clips_rear.png)
 
 To adapt to the smaller size, I had to lose the skeletonized cutouts, and adjust the keyhole geometry.  The key and it's many refinements are nearly unchanged.  I simply cut it into pieces and resized the bits to suit my scaling, then smooshed it back together.  It is more slight than the 2020 key, but the geometry still seems to work, and the retention and 90 degree turn locking work as intended.  The two lock bodies were reworked slightly in shape to better suit diminutive 1515 printers.  I stylized the keyhole a little to suit my own taste.  It works and prints ok, but may get walked back to something closer to the original straight lines of the Annex clip keyhole, as I chase the best printability.  
+
+
+1-21-2025:
+
+New 4mm clips are here to expand compatibility with the stock Voron V0.x!
+
+![](/Images/NEW_clips_front.png)
+![](/Images/NEW_clips_rear.png)
